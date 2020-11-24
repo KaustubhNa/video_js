@@ -28,4 +28,4 @@ setInterval(() => {
 
     video.currentTime = scrollpos;
 
-}, 200);
+}, 40);
